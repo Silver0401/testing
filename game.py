@@ -1,6 +1,6 @@
 
 def calc_area(input1, input2): 
-    return "Area: " + str(input1*input2); 
+    return input1*input2
 
 def calc_per(coso1, coso2):
     return "Perimetro: " + str((2*coso1)+(2*coso2))
